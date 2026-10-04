@@ -1,0 +1,6 @@
+interface:
+  display_name: "Desarrollo con especificaciones"
+  short_description: "Definir, construir y verificar apps mediante specs"
+  default_prompt: "Usa $spec-driven-development para guiarme con preguntas y desarrollar mi aplicación con especificaciones vivas."
+policy:
+  allow_implicit_invocation: true
